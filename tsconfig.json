@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "sourceMap": false,
+    "noImplicitAny": true,
+    "target": "ES5"
+  }
+}
